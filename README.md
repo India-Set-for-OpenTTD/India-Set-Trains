@@ -1,4 +1,4 @@
-ppppp# India Set:Trains
+# India Set:Trains
 ## A part of India Set for OpenTTD
 
 
@@ -13,6 +13,7 @@ limitations and creative liberties.
 ## Contributors to India Set:Trains:
 
 *Sprite Artists:* alfagamma7
+
 *Coder:* alfagamma7
 
 Those who want to contribute to the project can join the India Set For OpenTTD server on **discord**:https://discord.gg/QqwjV3P7KX
