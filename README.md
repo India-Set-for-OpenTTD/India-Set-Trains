@@ -12,9 +12,9 @@ limitations and creative liberties.
 
 ## Contributors to India Set:Trains:
 
-*Sprite Artists:* alfagamma7
+*Sprite Artist:* alfagamma7
 
 *Coder:* alfagamma7
 
-Those who want to contribute to the project can join the India Set For OpenTTD server on **discord**:https://discord.gg/QqwjV3P7KX
+Those who want to contribute to the project can join the India Set for OpenTTD server on **discord**:https://discord.gg/QqwjV3P7KX
 
