@@ -18,3 +18,4 @@ limitations and creative liberties.
 
 Those who want to contribute to the project can join the India Set for OpenTTD server on **discord**:https://discord.gg/QqwjV3P7KX
 
+Licenced under GPL v2.
